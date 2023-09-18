@@ -451,3 +451,8 @@ table th {
     }
 }
 
+/* deixando responsivo para smartphones */
+
+@media screen and (max-width:767px) {
+
+}
